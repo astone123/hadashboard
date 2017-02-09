@@ -3,6 +3,7 @@ dashboards/*
 # But don't ignore these
 !dashboards/example.erb
 !dashboards/layout.erb
+!dashboards/layout.erb
 
 # Don't include custom CSS
 assets/stylesheets/_application_custom.scss
@@ -15,6 +16,7 @@ Gemfile.lock
 dashing.pid
 .bundle
 log/thin.log
+
 
 # Virtual environment folder for running hapush
 venv*
