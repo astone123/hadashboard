@@ -3,7 +3,7 @@ dashboards/*
 # But don't ignore these
 !dashboards/example.erb
 !dashboards/layout.erb
-!dashboards/layout.erb
+!dashboards/main.erb
 
 # Don't include custom CSS
 assets/stylesheets/_application_custom.scss
